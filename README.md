@@ -7,7 +7,7 @@
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatan2019Rodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias com quais ja trabalhei
   
 <div style="display: inline_block">
   <img align="center" alt="css" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
