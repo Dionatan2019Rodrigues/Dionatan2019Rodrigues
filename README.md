@@ -1,33 +1,29 @@
+## 💜 Olá, meu nome é Dionatan!
 
-## Olá! Eu sou Dionatan Rodrigues, estudante do curso de Ciência da Computação 🖐️
+Tenho 23 anos e sou formado no curso Técnico em Informática para Internet e atualmente estou cursando Bacharel em Ciência da computação na UFSM.
 
-<div align="center">
-  <a href="https://github.com/Dionatan2019Rodrigues">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Dionatan2019Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatan2019Rodrigues&layout=compact&langs_count=7&theme=dark"/>
-</div>
+🔭 Meu projeto mais recente é um ToDo List utilizando React.
 
-## Tecnologias com quais ja trabalhei
-  
-<div style="display: inline_block">
-  <img align="center" alt="css" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div><br/>
-  
- Estou em constante aprendizado, em busca de uma melhor capacitação.
-    
-## Contato
-  
-<div> 
-  <a href = "mailto:dionatanrodrigues351@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dionatan-rodrigues-76b507255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Dionatan2019Rodrigues/Dionatan2019Rodrigues/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
+💬 Se você também é um apaixonado por tecnologia e gosta de compartilhar conhecimentos, entre em contato comigo estou sempre almejando novos desafios. Você pode encontrar meus meios de contato no final deste documento.
 
+---
 
+## 🚀 Minhas Skills
+
+  <code><img height="32" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" alt="linux"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" alt="git"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+---
+
+##  Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-DionatanRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionatan-eduardo-correa-rodrigues-76b507255/)](https://www.linkedin.com/in/dionatan-eduardo-correa-rodrigues-76b507255/)
+[![Gmail Badge](https://img.shields.io/badge/-derodrigues@inf.ufsm.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derodrigues@inf.ufsm.br)](mailto:derodrigues@inf.ufsm.br)
+[![GitHub](https://img.shields.io/github/followers/Dionatan2019Rodrigues?label=follow&style=social)](LINK-DO-SEU-GITHUB)
