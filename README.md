@@ -1,5 +1,7 @@
 ## 💜 Olá, meu nome é Dionatan!
 
+<img align="right" height="200" alt="octocat" src="https://github.com/user-attachments/assets/4e742b45-d4d1-4a44-8ab3-b79a6ace3763">
+
 Tenho 23 anos, sou formado no curso Técnico em Informática para Internet e atualmente estou cursando Bacharel em Ciência da computação na UFSM.
 
 🔭 Meu projeto mais recente é um ToDo List utilizando React.
