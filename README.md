@@ -26,4 +26,4 @@ Tenho 23 anos e sou formado no curso Técnico em Informática para Internet e at
 
 [![Linkedin](https://img.shields.io/badge/-DionatanRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionatan-eduardo-correa-rodrigues-76b507255/)](https://www.linkedin.com/in/dionatan-eduardo-correa-rodrigues-76b507255/)
 [![Gmail Badge](https://img.shields.io/badge/-derodrigues@inf.ufsm.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derodrigues@inf.ufsm.br)](mailto:derodrigues@inf.ufsm.br)
-[![GitHub](https://img.shields.io/github/followers/Dionatan2019Rodrigues?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/Dionatan2019Rodrigues?label=follow&style=social)](https://github.com/Dionatan2019Rodrigues)
