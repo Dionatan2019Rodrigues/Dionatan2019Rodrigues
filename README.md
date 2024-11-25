@@ -29,6 +29,12 @@ Tenho 23 anos e sou formado no curso Técnico em Informática para Internet e at
   
 ---
 
+## :memo: Meus commits
+
+<div align="left"><img height="150" src="https://github.com/user-attachments/assets/9481a054-10c7-4219-83ac-96d127979fae" alt="commits"> </div>
+
+---
+
 ##  Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-DionatanRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionatan-eduardo-correa-rodrigues-76b507255/)](https://www.linkedin.com/in/dionatan-eduardo-correa-rodrigues-76b507255/)
