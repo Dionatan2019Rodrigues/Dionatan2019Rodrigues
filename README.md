@@ -25,6 +25,7 @@
   <code><img title="Css" height="32" src="https://github.com/user-attachments/assets/987a3914-6ed7-484d-a64a-ec63798731b7" alt="Css"/></code>
   <code><img title="Javascript" height="32" src="https://github.com/user-attachments/assets/2dd78f84-7424-4dff-b80e-df398aa65829" alt="Javascript"/></code>
   <code><img title="React.js" height="32" src="https://github.com/user-attachments/assets/0444acef-f350-4d5a-a4e6-706967417a47" alt="react"/></code>
+  <code><img title="tailwind" height="30" width="32" src="https://github.com/user-attachments/assets/01b275ca-b5b1-4fc7-b8a8-435ea016e42d" alt="tailwind"/></code>
   <code><img title="Node.js" height="32" src="https://github.com/user-attachments/assets/6d169949-828d-42d5-9d57-21423d7afb9a" alt="node"/></code>
   <code><img title="php" height="32" src="https://github.com/user-attachments/assets/99075a31-f657-4bf8-9574-76578cc27197" alt="php"/></code>
   <code><img title="Java" height="32" src="https://github.com/user-attachments/assets/0ae94e90-e62d-48af-b204-61fe8d19f0a8" alt="java"/></code>
