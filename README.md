@@ -36,9 +36,11 @@
   
 ---
 
-## :memo: Meus commits
+## :memo: Atividades
 
-<div align="left"><img height="150" src="https://github.com/user-attachments/assets/9481a054-10c7-4219-83ac-96d127979fae" alt="commits"> </div>
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dionatan2019rodrigues&radius=16&theme=merko&area=true&order=5&custom_title=Contribution" height="250" alt="grafico de atividades"  />
+</div>
 
 ---
 
